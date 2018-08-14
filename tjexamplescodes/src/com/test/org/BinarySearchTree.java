@@ -46,7 +46,6 @@ public void printInorder(BST temp) {
 public class BinarySearchTree {
     
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		BST root = new BST(50);
 		root.insertNode(70);
 		root.insertNode(30);
